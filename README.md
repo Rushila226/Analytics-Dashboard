@@ -5,12 +5,12 @@ A modern React-based project utilizing the latest frontend technologies and tool
 FEATURES:
 
 
-1)Executive Overview: Track total revenue, active users, conversions, and growth trends.
-2)Real-Time Operations Monitor: Live spend rate, impression velocity, CTR, CPC, and quality score tracking with alerting.
-3)Campaign Performance Analytics: View ROI, total spend, cost per acquisition, and conversion rates across date ranges and channels.
-4)Revenue Breakdown Chart: Pie chart visualization for service-type revenue distribution.
-5)PDF/Excel Export Options: Export reports for sharing and offline analysis.
-6)Responsive Design: Optimized for desktops and tablets.
+1) Executive Overview: Track total revenue, active users, conversions, and growth trends.
+2) Real-Time Operations Monitor: Live spend rate, impression velocity, CTR, CPC, and quality score tracking with alerting.
+3) Campaign Performance Analytics: View ROI, total spend, cost per acquisition, and conversion rates across date ranges and channels.
+4) Revenue Breakdown Chart: Pie chart visualization for service-type revenue distribution.
+5) PDF/Excel Export Options: Export reports for sharing and offline analysis.
+6) Responsive Design: Optimized for desktops and tablets.
 
 
 TECH STACK:
